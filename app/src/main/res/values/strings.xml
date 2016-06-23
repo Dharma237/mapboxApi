@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MapboxApi</string>
+    <string name="action_settings">Settings</string>
+    <string name="directions">Directions</string>
+    <string name="distance">Distance</string>
+    <string name="durartion">Duration</string>
+    <string name="steps">Steps</string>
+    <string name="my_location">My Location</string>
+    <string name="network_not_available">Problem with network connection. Please Try again...</string>
+    <string name="custom_marker">Custom Marker</string>
+    <string name="acessToken" translatable="false">pk.eyJ1IjoiYW5pdGhhIiwiYSI6ImNpandwZzVsZzBtd3d2Mm01czFvZ2hnb24ifQ.GKDUFD8mPIQwwOALNveP5g</string>
+</resources>
