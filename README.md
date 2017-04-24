@@ -1,10 +1,10 @@
-# Uses of Mapbox API library 
+## Uses of Mapbox API library 
 
   - Initialize mapview 
   - Directions from source to destination.
   - Create custom marker on the map
   - Draw polyline on the map
-# How to use Mapbox API library
+## How to use Mapbox API library
 
 #### Copy following files to your project
 
@@ -87,7 +87,7 @@
 
 > Create custom marker on the map:
 
-- Example parameters to be possed into argument
+- Example parameters to be passed into argument
     - markerImageValue = R.drawable.ic_current_location;
 	- label = "India"
 	- ``` returns Marker ```
@@ -98,7 +98,7 @@
 	  
 	  
 > Draw polyline on the map:
-- Example parameters to be possed into argument
+- Example parameters to be passed into argument
     - width = 4;
 	- color = "#FF0000"
 ```java 
